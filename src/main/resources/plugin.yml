@@ -1,0 +1,4 @@
+name: ObjMaker
+version: ${project.version}
+main: me.gorgeousone.objmaker.Objmaker
+api-version: 1.16
